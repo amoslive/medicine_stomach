@@ -1,4 +1,7 @@
 # 2026年4月吃药清单
+
+https://gitee.com/amos2022/medicine_stomach
+
 > 说明：  
 > `✅` = 按时吃  
 > `⏰` = 吃了但不按时  
