@@ -13,6 +13,21 @@ RMB 10+ billion | 2024 R&D investment by the Intelligent Automotive Solutions BU
 Qiankun Intelligent Driving: One step ahead, every step ahead
 ADS 4 率先迈向L3
 ADS 4: First to move toward L3
+
+鸿蒙座舱
+HarmonyOS Cockpit
+乾崑智驾
+Huawei Qiankun Intelligent Driving
+乾崑车控
+Qiankun Vehicle Control
+乾崑车载光
+Qiankun In-Vehicle Lighting
+智能电动
+Intelligent Electric Drive
+智能网联
+Intelligent Connectivity
+乾崑车云服务
+Qiankun Vehicle Cloud Services
 ## Page2
 稳健经营 快速增长
 Steady Operations, Rapid Growth
