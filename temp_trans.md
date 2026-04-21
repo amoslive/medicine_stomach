@@ -28,6 +28,35 @@ Intelligent Electric Drive
 Intelligent Connectivity
 乾崑车云服务
 Qiankun Vehicle Cloud Services
+
+乾崑智驾：一步领先 步步领先
+Qiankun Intelligent Driving: One step ahead, every step ahead
+ADS 1.0
+ADS 1.0
+率先商用
+First to be commercialized
+城区NCA
+Urban NCA
+ADS 2.0
+ADS 2.0
+率先实现
+First to achieve
+全国都能开
+Drivable nationwide
+有路就能开
+Drive wherever there is a road
+ADS 3.0
+ADS 3.0
+业界首发
+Industry-first launch
+车位到车位
+Parking space to parking space
+泊车代驾
+Valet parking assist
+ADS 4
+ADS 4
+率先迈向L3
+First to move toward L3
 ## Page2
 稳健经营 快速增长
 Steady Operations, Rapid Growth
