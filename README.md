@@ -38,4 +38,3 @@ https://gitee.com/amos2022/medicine_stomach
 | 5/30 | 周六 | ☐      | ☐    | ☐      | ☐     |    |
 | 5/31 | 周日 | ☐      | ☐    | ☐      | ☐     |    |
 
-https://www.iyf.tv/play/gyHHnL3FuWV?id=OVQLA8qzWrL
